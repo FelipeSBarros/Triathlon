@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "triatlhon"
+version = "0.1.0"
+description = ""
+authors = ["Felipe Sodré M. Barros"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.0.2"
+geopandas = "^0.13.2"
+movingpandas = "^0.16.0"
+notebook = "^6.5.4"
+pathlib = "^1.0.1"
+fiona = "^1.9.4.post1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
