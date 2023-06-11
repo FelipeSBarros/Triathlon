@@ -1,4 +1,4 @@
-# Trathlon
+# Triathlon
 
 Repositório criado para analisar e comparar os dados das provas de triathlon e de treinamento.
 
